@@ -39,14 +39,12 @@
 </tr>
 </table>
 
-<div align="center" "margin-left: 50;">
+<div align="center">
 <a href="https://github.com/2-do/2-do/issues/1#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
 
 <!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/2-do"><img width="24" src="https://avatars.githubusercontent.com/u/81721496?s=24&u=a9e54ad48c91153a3ad01ca3124842f7b91c1d35&v=4" alt="2-do" /> 2-do</a> |11/29/2022, 2:27:53 AM|:)|
+
 <!-- /Guestbook -->
 
 <!-- Footer -->
